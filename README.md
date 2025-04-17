@@ -1,1 +1,1 @@
-# Variable_Basics-Assignment_2
+Basic python variable creation & rules to use & print the variable
